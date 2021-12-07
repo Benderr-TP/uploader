@@ -18,7 +18,7 @@
     "usb": "1.6.3"
   },
   "resolutions": {
-    "@serialport/bindings": "9.0.7"
+    "@serialport/bindings": "9.2.8"
   },
   "optionalDependencies": {
     "winreg": "1.2.4"

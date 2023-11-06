@@ -21,6 +21,6 @@
     "@serialport/bindings": "9.0.7"
   },
   "optionalDependencies": {
-    "winreg": "1.2.4"
+    "winreg": "1.2.5"
   }
 }
